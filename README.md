@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my GitHub profile! I'm Blessing Ekwere, a passionate data analyst with a background in the building industry, now exploring the world of tech. Proficient in PowerBI, SQL, and Excel, I'm also diving into Python for more data analysis possibilities.
+Welcome to my GitHub profile! I'm Blessing Ekwere, a passionate data professional with a background in the building industry, now exploring the world of tech. Proficient in Python, PowerBI, SQL, and Excel.
 
 My repository showcases diverse projects where I collaborate across industries, providing captivating visualizations and actionable insights. I prioritize ethical data practices, ensuring privacy and compliance.
 
